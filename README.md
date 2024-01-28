@@ -1,16 +1,21 @@
-# planner
+# PLANNER
+![photo9407428804](https://github.com/AmirrezaKhezerlou/Flutter_Planner_app/assets/45494511/7070699a-7e9d-4351-b687-d3bcf01ea0ec)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Project Review
 
-A few resources to get you started if this is your first Flutter project:
+یک اپلیکیشن طراحی شده با فلاتر جهت نظم دهی به برنامه های روزانه 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+با استفاده از این اپلیکیشن میتوانید برای سی روز آینده ی خود برنامه ریزی داشته باشید.
+یکی از قابلیت های این اپلیکیشن قابلیت تعیین آلارم برای هر فعالیت در هر روز دلخواه می باشد که به یادآوری قرار ها و جلساتتان کمک خواهد کرد.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An application designed with Flutter to organize daily plans
+
+Using this application, you can plan for your next thirty days.
+One of the features of this application is the ability to set alarms for any activity on any desired day, which will help you remember your appointments and meetings.
+
+Technologies used in this application: 
+ - Getx Package for statemanagement,
+ - sqflite for local data base
+ - 'alarm' package for set alarms 
